@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mokshitha 👋
 
-<!--
-**mokshi-25/mokshi-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring developer who enjoys building web apps and small tools.
 
-Here are some ideas to get you started:
+## 🚀 Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does | Live demo |
+|---|---|---|
+| [Code Review Bot](https://github.com/mokshi-25/code-review-bot) | AI code review with scores, file upload and demo mode | [Open](https://mokshi-25.github.io/code-review-bot/public/index.html) |
+| [Weather Now](https://github.com/mokshi-25/weather-now) | Weather by city or live location, with a 5-day forecast | [Open](https://mokshi-25.github.io/weather-now/) |
+| [Pest Early Warning](https://github.com/mokshi-25/pest-early-warning) | Pest detection using image-based ML and regional weather data | - |
+
+## 🛠️ Skills
+
+HTML, CSS, JavaScript, Java, Python
